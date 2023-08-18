@@ -5,10 +5,9 @@ First, I started with this website which has tabulated all unconstitutional laws
 ## Data Source
 ![Source Data](https://github.com/ebrodbeck/Unconstitutional_Laws/blob/main/Data%20Source.png)
 
-After formatting the data, here are the quick hits relating to the main question. Note that the Federal government has had more than 2x the amount of laws overturned as the highest state (NY). To keep the plots interesting, I'll omit the Federal government from the rest of the analysis.
 ## Total Unconstitutional Laws by State
 ![Total Unconstitutional Laws by State](https://github.com/ebrodbeck/Unconstitutional_Laws/blob/main/Total%20Unconstitutional%20Laws%20by%20State.JPG)
-
+After formatting the data, here are the quick hits relating to the main question. Note that the Federal government has had more than 2x the amount of laws overturned as the highest state (NY). To keep the plots interesting, I'll omit the Federal government from the rest of the analysis.
 One might see these plots and say "some states have existed longer, so the data is biased". Good point, lets examine that.
 ## Unconstitutional Laws per Decade by State
 ![Unconstitutional Laws per Decade by State](https://github.com/ebrodbeck/Unconstitutional_Laws/blob/main/Unconstitutional%20Laws%20per%20Decade%20by%20State.JPG)
